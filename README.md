@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CauaFelipe05
-- 👀 I’m interested in ... program
+- 👀 I’m interested in... Html5/Css3/Javascript/wordpress/MsQl/Php   
 - 🌱 I’m currently learning ... Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
